@@ -19,7 +19,9 @@ SET foreign_key_checks=0;
 --
 -- Current Database: `Chinook`
 --
-
+DROP DATABASE IF EXISTS chinook;
+CREATE DATABASE chinook;
+USE chinook;
 
 --
 -- Table structure for table `Album`
