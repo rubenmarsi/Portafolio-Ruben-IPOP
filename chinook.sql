@@ -23,9 +23,6 @@
 --
 -- Table structure for table `Album`
 --
-CREATE DATABASE Chinook;
-
-USE Chinook;
 
 DROP TABLE IF EXISTS `Album`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
